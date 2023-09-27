@@ -1,0 +1,7 @@
+5. Qual é o resultado da expressão booleana abaixo?
+
+!(true && false) || (false && true)
+
+---------------------------------------------
+
+Resposta: a. true
